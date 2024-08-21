@@ -1,5 +1,11 @@
-d 'DEA': Data envelopment analysis
+d 'msreg': Consistent estimation of linear regression models using matched data Use msreg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f _msreg_display.ado
+f _msreg_obj.ado
+f _msreg_obj.mata
+f _msreg_parse_syntax.ado
+f _st_msreg_obj.mata
+f dgp_msreg.ado
+f lmsreg.mlib
+f msreg.ado
+f msreg.sthlp
