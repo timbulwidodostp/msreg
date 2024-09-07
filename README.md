@@ -1,6 +1,8 @@
 # msreg
 Consistent estimation of linear regression models using matched data Use msreg With STATA 18
 
+https://www.youtube.com/watch?v=jkA5qH5uqFE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
